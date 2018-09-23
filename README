@@ -1,0 +1,10 @@
+We consider a thin bar, with length L = 1, initial temperature T_int = 0ºC with temperature at the edges of, respectively 0ºC and 100ºC.
+
+USAGE: 
+	 n: number of space sections
+	 dt: time interval
+	 t: number of iterations of time
+	 alpha: coefficient of heat diffusivity
+ 
+
+ 
