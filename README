@@ -1,6 +1,7 @@
 We consider a thin bar, with length L = 1, initial temperature T_int = 0ºC with temperature at the edges of it respectively 0ºC and 100ºC.
 
 USAGE: 
+/.heat
 	 n: number of space sections
 	 dt: time interval
 	 t: number of iterations of time
